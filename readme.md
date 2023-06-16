@@ -9,7 +9,7 @@ Sistem Informasi penjualan tiket pesawat dengan menggunakan framework CodeIgnite
 ![ss](assets/ss3.png)
 ![ss](assets/ss4.png)
 ![ss](assets/ss5.png)
-![ss](assets/ss6.png)
+
 
 ## Admin Account
 |   Level   | Username | Password |
